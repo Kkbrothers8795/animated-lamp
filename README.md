@@ -1,10 +1,10 @@
-# [Screenshotit_bot](https://tx.me/screenshotit_bot)
+# [Video Watermark Bot](https://tx.me/WatermarkVDO_Bot)
 
 > Telegram Bot For Screenshot Generation.
 
 ## Description
 
-An attempt to implement the screenshot generation of telegram files without downloading the entire file. Live version can be found here [@screenshotit_bot](https://tx.me/screenshotit_bot "Screenshot Generator Bot").
+An attempt to implement the screenshot generation of telegram files without downloading the entire file. Live version can be found here [@screenshotit_bot](https://tx.me/WatermarkVDO_Bot "Watermark Video Bot").
 
 ## Installation Guide
 
@@ -20,8 +20,8 @@ An attempt to implement the screenshot generation of telegram files without down
 * Clone to local machine.
 
 ``` bash
-$ git clone https://github.com/odysseusmax/animated-lamp.git
-$ cd animated-lamp
+$ git clone https://github.comoVo-HxBots/WaterMark-VideoBot.git
+$ cd WaterMark-VideoBot
 ````
 
 * Create and activate virtual environment.
@@ -108,7 +108,7 @@ In bot settings.
 Contributions are welcome.
 
 ## Contact
-You can contact me [@odysseusmax](https://tx.me/odysseusmax).
+You can contact me [@odysseusmax](https://tx.me/kirodewal).
 
 ## Thanks
 Thanks to [Dan](https://github.com/delivrance "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
