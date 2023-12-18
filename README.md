@@ -4,7 +4,7 @@
 
 ## Description
 
-An attempt to implement the screenshot generation of telegram files without downloading the entire file. Live version can be found here [@screenshotit_bot](https://tx.me/WatermarkVDO_Bot "Watermark Video Bot").
+An attempt to implement the screenshot generation of telegram files without downloading the entire file. Live version can be found here [@WaterMark-VideoBot](https://tx.me/WatermarkVDO_Bot "Watermark Video Bot").
 
 ## Installation Guide
 
