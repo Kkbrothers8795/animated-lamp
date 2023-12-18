@@ -8,4 +8,4 @@ COPY . .
 
 RUN pip install -U -r requirements.txt
 
-CMD [ "python", "-m", "bot" ]
+CMD [ "python3", "-m", "bot" ]
