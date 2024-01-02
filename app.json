@@ -1,6 +1,4 @@
-
 {
-
     "name": "Watermark VideoBot",
     "description": "A Modular telegram bot for Screenshots & Trim Videos.",
     "repository": "https://github.com/oVo-HxBots/WaterMark-VideoBot",
@@ -41,7 +39,7 @@
              "required": true
         },
         "AUTH_USERS": {
-            "description": "Admin(s) of the bot. User's telegram id separated by space. Atleast one id should be specified.,
+            "description": "Admin(s) of the bot. User's telegram id separated by space. Atleast one id should be specified.",
              "value":"123456789",
              "required": true
         },
@@ -63,7 +61,7 @@
         "TRACK_CHANNEL": {
             "description": "User activity tracking channel's id. Only needed if you want to track and block any user. Disabled by default.",
              "value":"-10012345678",
-             "required": faslse
+             "required": false
         },
         "SLOW_SPEED_DELAY": {
             "description": "Delay required between each interaction from users in seconds. Defaults to 5s.",
