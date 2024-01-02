@@ -1,4 +1,4 @@
-FROM python:3.9.1-buster
+FROM python:3.9.18
 
 RUN apt-get update -qq && apt-get -y install ffmpeg
 
