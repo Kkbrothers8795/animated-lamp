@@ -25,6 +25,9 @@ An attempt to implement the screenshot generation of telegram files without down
 * FFmpeg.
 * Python3 (3.6 or higher).
 
+### Heroku
+(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### Local setup
 
 > The setup given here is for a linux environment (Debian/Ubuntu).
