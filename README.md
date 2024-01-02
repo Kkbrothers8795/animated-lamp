@@ -1,7 +1,16 @@
 # [Video Watermark Bot](https://tx.me/WatermarkVDO_Bot)
 
 > Telegram Bot For Screenshot Generation.
+> 
+### Contents
 
+- [Description](#description)
+- [Guid](#installation-guid)
+- [Environment Variables](#environment-variables)
+- [Streaming](#setting-up-streaming-service)
+- [Commands](#commands)
+- [Functions](#functions)
+- 
 ## Description
 
 An attempt to implement the screenshot generation of telegram files without downloading the entire file. Live version can be found here [@WaterMark-VideoBot](https://tx.me/WatermarkVDO_Bot "Watermark Video Bot").
