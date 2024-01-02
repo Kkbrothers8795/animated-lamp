@@ -1,6 +1,7 @@
 {
     "name": "Watermark VideoBot",
     "description": "A Modular telegram bot for Screenshots & Trim Videos.",
+    "logo": "https://telegra.ph/file/77fda23e2fa42714a0c53.jpg",
     "repository": "https://github.com/oVo-HxBots/WaterMark-VideoBot",
     "buildpacks":[
         {
@@ -91,6 +92,6 @@
         },
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
-        },
+        }
     ]
 }
