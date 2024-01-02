@@ -5,12 +5,15 @@
 ### Contents
 
 - [Description](#description)
-- [Guid](#installation-guid)
+- [ Installation Guid](#installation-guid)
 - [Environment Variables](#environment-variables)
 - [Streaming](#setting-up-streaming-service)
 - [Commands](#commands)
 - [Functions](#functions)
-- 
+- [Settings](#settings)
+- [Contributions](#contributions)
+- [Dependencies](#dependencies)
+
 ## Description
 
 An attempt to implement the screenshot generation of telegram files without downloading the entire file. Live version can be found here [@WaterMark-VideoBot](https://tx.me/WatermarkVDO_Bot "Watermark Video Bot").
