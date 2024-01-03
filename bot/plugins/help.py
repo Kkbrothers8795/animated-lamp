@@ -39,8 +39,6 @@ async def help_(c, m):
         text=HELP_TEXT.format(
             mention=m.from_user.mention,
             admin_notification=ADMIN_NOTIFICATION_TEXT
-            if m.from_user.id in Config.AUTH_USERS
-            else "",
         ),
         quote=True,
     )
