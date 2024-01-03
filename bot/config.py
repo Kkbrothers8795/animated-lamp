@@ -6,7 +6,7 @@ class Config:
     API_ID = 2532603
     API_HASH = "f565b00bbe3ad9c6748e39a3a71d16e7"
     BOT_TOKEN = "6600693083:AAFlLceUGrI_4o2JfxEfW-dmuwmoDhfUflU"
-    SESSION_NAME = os.environ.get("SESSION_NAME", ":memory:")
+    SESSION_NAME = ":memory:"
     LOG_CHANNEL = "-1001364200595"
     DATABASE_URL = "mongodb+srv://user:user@cluster0.x3e1p.mongodb.net"
     AUTH_USERS = "754495556"
