@@ -7,12 +7,12 @@ class Config:
     API_HASH = "f565b00bbe3ad9c6748e39a3a71d16e7"
     BOT_TOKEN = "6600693083:AAFlLceUGrI_4o2JfxEfW-dmuwmoDhfUflU"
     SESSION_NAME = ":memory:"
-    LOG_CHANNEL = "-1001364200595"
+    LOG_CHANNEL = "-1002046013717"
     DATABASE_URL = "mongodb+srv://user:user@cluster0.x3e1p.mongodb.net"
     AUTH_USERS = "754495556"
     MAX_PROCESSES_PER_USER = int(os.environ.get("MAX_PROCESSES_PER_USER", 2))
     MAX_TRIM_DURATION = int(os.environ.get("MAX_TRIM_DURATION", 600))
-    TRACK_CHANNEL = int(os.environ.get("TRACK_CHANNEL", "-1001364200595"))
+    TRACK_CHANNEL = "-1002046013717"
     SLOW_SPEED_DELAY = int(os.environ.get("SLOW_SPEED_DELAY", 3))
     HOST = os.environ.get("HOST", "")
     TIMEOUT = int(os.environ.get("TIMEOUT", 60 * 30))
